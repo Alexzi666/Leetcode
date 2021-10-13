@@ -1,7 +1,7 @@
 # Leetcode
 
-##String
+## String
 
-##Arrays
+## Arrays
 
-##Trees
+## Trees
