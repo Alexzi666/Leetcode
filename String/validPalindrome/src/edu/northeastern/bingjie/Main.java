@@ -8,7 +8,7 @@ public class Main {
         String test1 = "A man, a plan, a canal: Panama";
         String test2 = "race a car";
 
-        System.out.println(sl.isPalindrome(test1)); //true
-        System.out.println(sl.isPalindrome(test2)); //false
+        System.out.println(sl.isPalindrome(test1)); //should see: true
+        System.out.println(sl.isPalindrome(test2)); //should see: false
     }
 }
