@@ -12,14 +12,16 @@ public class Main {
         int[][] ans2 = sl.transpose(matrix2);
         for(int i = 0; i < ans1.length; i++){
             for(int j = 0; j < ans1[0].length; j++){
-                System.out.println(ans1[i][j]);
+                System.out.print(ans1[i][j]);
             }
-        }
+        } //expect to see: 147258369
+
         System.out.println("_______");
+
         for(int i = 0; i < ans2.length; i++){
             for(int j = 0; j < ans2[0].length; j++){
-                System.out.println(ans2[i][j]);
+                System.out.print(ans2[i][j]);
             }
-        }
+        } //expect to see: 142536
     }
 }
