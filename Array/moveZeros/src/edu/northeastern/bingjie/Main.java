@@ -12,11 +12,15 @@ public class Main {
         sl.moveZeroes(test2);
 
         for(int i = 0; i < test1.length; i++){
-            System.out.println(test1[i]);
+            System.out.print(test1[i]);
         }
+        // expect to see: 131200
+
         System.out.println("~~~~~~~~~");
+
         for(int i = 0; i < test2.length; i++){
-            System.out.println(test2[i]);
+            System.out.print(test2[i]);
         }
+        //expect to see: 10000
     }
 }
