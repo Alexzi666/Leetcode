@@ -12,14 +12,18 @@ public class Main {
 
         for(int i = 0; i < matrix1.length; i++){
             for(int j = 0; j < matrix1.length; j++){
-                System.out.println(matrix1[i][j]);
+                System.out.print(matrix1[i][j] );
             }
         }
+
+        //3142
+
         System.out.println("-------");
         for(int i = 0; i < matrix2.length; i++){
             for(int j = 0; j < matrix2.length; j++){
-                System.out.println(matrix2[i][j]);
+                System.out.print(matrix2[i][j] );
             }
         }
+        //741852963
     }
 }
