@@ -8,7 +8,7 @@ public class Main {
 
         String ss = "foo", tt = "bar";
 
-        System.out.println(sl.isIsomorphic(s,t));//true
-        System.out.println(sl.isIsomorphic(ss,tt));//false
+        System.out.println(sl.isIsomorphic(s,t));// should see: true
+        System.out.println(sl.isIsomorphic(ss,tt));// should see: false
     }
 }
