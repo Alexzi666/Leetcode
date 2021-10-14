@@ -8,7 +8,7 @@ public class Main {
 
         String num11 = "456", num22 = "77";
 
-        System.out.println(sl.addStrings(num1,num2)); //134
-        System.out.println(sl.addStrings(num11,num22)); //533
+        System.out.println(sl.addStrings(num1,num2)); //expect to see: 134
+        System.out.println(sl.addStrings(num11,num22)); //expect to see: 533
     }
 }
