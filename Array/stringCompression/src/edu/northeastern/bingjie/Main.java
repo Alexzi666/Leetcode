@@ -8,8 +8,8 @@ public class Main {
         char[] test1 = {'a','a','c','c'};
         char[] test2 = {'c','c','a'};
 
-        System.out.println(sl.compress(test1)); //4
-        System.out.println(sl.compress(test2)); //3
+        System.out.println(sl.compress(test1)); //should see: 4
+        System.out.println(sl.compress(test2)); //should see: 3
 
     }
 }
