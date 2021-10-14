@@ -12,7 +12,7 @@ public class Main {
         String str4 = "coding";
 
         Solution sl = new Solution();
-        System.out.println(sl.shortestDistance(wordD,str1,str2));
-        System.out.println(sl.shortestDistance(wordD1,str3,str4));
+        System.out.println(sl.shortestDistance(wordD,str1,str2)); //3
+        System.out.println(sl.shortestDistance(wordD1,str3,str4)); //1
     }
 }
