@@ -15,12 +15,12 @@ public class Main {
         List<Integer> ans2 = sl.spiralOrder(test2);
 
         for(int i = 0; i < ans1.size(); i++){
-            System.out.println(ans1.get(i));
-        }
+            System.out.print(ans1.get(i));
+        } // should see: 123698745
 
-        System.out.println("-------");
+        System.out.println(" -------");
         for(int i = 0; i < ans2.size(); i++){
-            System.out.println(ans2.get(i));
-        }
+            System.out.print(ans2.get(i));
+        } // should see: 123654
     }
 }
