@@ -1,6 +1,12 @@
 # Leetcode
 
 ## String
+1. [addString](https://github.com/Alexzi666/Leetcode/tree/main/String/addString)
+2. [isomorphicStrings](https://github.com/Alexzi666/Leetcode/tree/main/String/isomorphicStrings)
+3. [reverseString](https://github.com/Alexzi666/Leetcode/tree/main/String/reverseString)
+4. [reverseWordsInAString](https://github.com/Alexzi666/Leetcode/tree/main/String/reverseWordsInAString)
+5. [shortestWordDistance](https://github.com/Alexzi666/Leetcode/tree/main/String/shortestWordDistance)
+6. [validPalindrome](https://github.com/Alexzi666/Leetcode/tree/main/String/validPalindrome)
 
 ## Arrays
 1. [Transpose Matrix](https://github.com/Alexzi666/Leetcode/tree/main/Array/TransposeMatrix)
